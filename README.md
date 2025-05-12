@@ -26,8 +26,8 @@ Tested on the microcontroller used in our paper:
 
 ### Installation
 ```bash
-git clone https://github.com/Sentz98/ACM25_Submission.git
-cd ACM25_Submission
+git clone https://github.com/Sentz98/ProbabilisticDynamicQuantization.git
+cd ProbabilisticDynamicQuantization
 
 # Install simulation requirements
 pip install -r simulation/requirements.txt
