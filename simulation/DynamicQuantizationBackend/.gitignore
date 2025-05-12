@@ -1,0 +1,22 @@
+# Ignore data directory
+data/
+temp/
+results/
+imgs/
+
+study/*.json
+study/*.png
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore model checkpoint files
+*.pth
+*.pt
+
+# Ignore UML
+*.uml
